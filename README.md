@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, Unity Engine and everything related to SPACE!!!
 - 🌱 I’m currently learning to build small-scale web applications based on ASP .NET Framework 
 - 💞️ I’m looking to collaborate on something that will give me some starting experience in Unity Engine development
-- 📫 I always read my public e-mail gript31@gmail.com. Feel free to contact at any time!
+
 
 <!---
 ra4nd0m/ra4nd0m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
