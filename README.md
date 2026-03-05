@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ra4nd0m
 - 👀 I’m interested in web development, Unity Engine and everything related to SPACE!!!
-- 🌱 I’m currently learning to build small-scale web applications based on ASP .NET Framework 
 - 💞️ I’m looking to collaborate on something that will give me some starting experience in Unity Engine development
 
 
