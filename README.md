@@ -31,6 +31,7 @@ Backend-focused developer working mainly with **C# / .NET** and **Node.js**, plu
 - Docker
 - Docker Compose
 - systemd
+- GitHub Actions
 
 **Other**
 - SvelteKit
