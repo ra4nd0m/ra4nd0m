@@ -1,6 +1,6 @@
 # Hi, I'm Egor
 
-Backend-focused developer working mainly with **C# / .NET** and **Node.js**, with hands-on experience building and supporting production systems.
+Backend-focused developer working mainly with **C# / .NET** and **Node.js**, plus as of late took on **Go** with hands-on experience building and supporting production systems.
 
 ## About me
 
