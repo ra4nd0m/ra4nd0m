@@ -1,13 +1,13 @@
 # Hi, I'm Egor
 
-Backend-focused developer working mainly with **C# / .NET** and **Node.js**, plus as of late took on **Go** with hands-on experience building and supporting production systems.
+Backend-focused developer working mainly with **C# / .NET** and **Node.js**, plus as of late took on **Go**. Have hands-on experience building and supporting production systems.
 
 ## About me
 
-- Building backend services and APIs with **C# / ASP.NET Core**
+- Building backend services and APIs with **C# / ASP.NET Core** and **TypeScript / Node.js**
 - Working with **PostgreSQL**, **EF Core**, authentication/authorization, and deployment
 - Comfortable with **Linux**, **Docker**, **systemd**, and production support
-- Also familiar with **TypeScript**, **SvelteKit**, and full-stack/product-oriented work
+- Also familiar with **SvelteKit**, **React** and full-stack/product-oriented work
 - Interested in backend architecture, microservices, integrations, and reliable systems
 
 ## Tech stack
