@@ -15,9 +15,11 @@ Backend-focused developer working mainly with **C# / .NET** and **Node.js**, plu
 **Backend**
 - C#
 - .NET / ASP.NET Core
+- TypeScript
 - Node.js
 - REST API
 - EF Core
+- Go
 
 **Databases**
 - PostgreSQL
@@ -31,7 +33,6 @@ Backend-focused developer working mainly with **C# / .NET** and **Node.js**, plu
 - systemd
 
 **Other**
-- TypeScript
 - SvelteKit
 - Git
 - Swagger
@@ -63,6 +64,7 @@ Production-ready microservice platform for delivering subscription-based market 
 ## Currently interested in
 
 - .NET backend development
+- Advancing my Go skills
 - High-load and scalable systems
 - Cloud-native and distributed backend architecture
 - Product engineering in small and medium teams
